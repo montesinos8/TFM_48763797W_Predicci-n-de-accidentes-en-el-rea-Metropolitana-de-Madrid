@@ -3,7 +3,7 @@ Repositorio con notebooks y datos del TFM Predicción de accidentes en el área 
 
 En este repositorio veras los notebooks utilizados en este proyecto, estos son:
 
-• *TFM_base_de_datos_HORAS.ipynb:* Creación y preparación de la base de datos con granularidad horaria.
+• *TFM_base_de_datos_HORAS.ipynb:* Creación y preparación de la base de datos con granularidad horaria. 
 • *TFM_base_de_datos_DIAS.ipynb:* Preparación y consolidación de los datos con granularidad diaria.
 • *TFM_ANALISIS.ipynb:* Análisis exploratorio de los datos, visualización de correlaciones y patrones.
 • *FORECASTING_ARIMA.ipynb.* Implementación de modelos ARIMA-SARIMAX para series temporales horarias.
